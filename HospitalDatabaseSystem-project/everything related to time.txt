@@ -1,0 +1,9 @@
+everything related to time
+trend of the spread of the virus and deaths and recoveries 
+and anything else with respect to time
+
+--document every finding and explain each graphs in your notes
+
+topics
+
+date, country_orig, country, state, active, latitude, longtitude, country_id, state_id, country_state_id,confirmed_total,confirmed, recovered_total,recovered, deaths_total, deaths,SP_POP_TOTL,EN_POP_DNST,SP_POP_0014_TO,SP_POP_1564_TO,SP_POP_65UP_TO,days_since_first_case,days_since_tenth_case,days_since_hundredth_case,days_since_first_death,days_since_tenth_death,days_since_hundredth_death,confirmed_d2d,recovered_d2d,deaths_d2d
